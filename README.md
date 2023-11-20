@@ -1,9 +1,11 @@
 # Quantum Tasks: Superdence Coding 
+Superdense coding involves three parties: Sara, Khalid, and a third party. It requires two parties who wish to communicate a two-bit message, a pair of entangled qubits, and a quantum channel.
+
 
 
 ## Task 1: Building the Superdence Coding Protocol
 In this task, you will work with qubits using Qiskit to create a function that applies Superdense coding. which will Transmit two
-classical bits using one Qubit
+classical bits using one qubit. implement the four state and let the user choose which state they want 
 
 
 ## Steps:
@@ -20,3 +22,8 @@ classical bits using one Qubit
 
 ## Decoding Rules for Superdense Coding (Khalid protocol)
 ![KhalidState](https://github.com/hayaalhawas/Ghz-state/assets/109044183/6fe57ca1-edf6-4e6b-9fb9-cac0040306e8)
+
+## Bouns Task 🤔
+# References
+
+> [Qiskit documentation Superdence Protocol ]((https://learn.qiskit.org/course/ch-algorithms/superdense-coding ](https://learn.qiskit.org/course/ch-algorithms/superdense-coding)https://learn.qiskit.org/course/ch-algorithms/superdense-coding)
